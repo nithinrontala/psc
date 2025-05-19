@@ -206,5 +206,4 @@ class GeneratorPage extends StatelessWidget {
     }
   }
 
-// ...
 
